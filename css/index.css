@@ -5,7 +5,6 @@ ul, li {
 }
 
 body {
-    background: url("../images/background.jpg") no-repeat scroll 50% -28px;
     background-color: #0f0704;
 }
 
@@ -21,6 +20,7 @@ body {
 
 .wrapper {
     width: 1600px;
+    background: url("../images/background.jpg") no-repeat scroll 50% -28px;
     margin: auto;
     -moz-box-shadow: 0 0 25px #391100;
     -webkit-box-shadow: 0 0 25px #391100;
